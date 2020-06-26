@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class YoutubeRetfulApiApplication {
+public class YoutubeRestfulApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(YoutubeRetfulApiApplication.class, args);
+		SpringApplication.run(YoutubeRestfulApiApplication.class, args);
 	}
 
 }
